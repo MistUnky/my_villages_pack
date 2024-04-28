@@ -1,0 +1,9 @@
+[submodule "bell"]
+	path = bell
+	url = https://github.com/Sokomine/bell
+[submodule "cottages"]
+	path = cottages
+	url = https://github.com/Sokomine/cottages
+[submodule "ships_on_mapgen"]
+	path = ships_on_mapgen
+	url = https://github.com/Sokomine/ships_on_mapgen

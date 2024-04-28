@@ -1,0 +1,2 @@
+added more schemas to mg_villages
+changed how handle_schematics fills chests
